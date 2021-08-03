@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alishavinod
+- 👋 Hi, I’m Alisha Vinod.
 - 👀 I’m interested in coding and problem solving.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on ...
